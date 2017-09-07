@@ -1,0 +1,11 @@
+{
+  "name": "ivy",
+  "version": "1.0.0",
+  "description": "Modern Screen Reader and Navigator for Web",
+  "main": "manifest.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jobith M Basheer <jobithmbasheer@gmail.com>",
+  "license": "MIT"
+}

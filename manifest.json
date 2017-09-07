@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Ivy - Modern Screen Reader and Navigator for Web",
+    "description": "This extension will be a Modern Screen Reader and Navigator for Web.",
+    "version": "1.0",
+  
+    "browser_action": {
+     "default_icon": "app/assets/img/icon.png",
+     "default_popup": "app/index.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }
